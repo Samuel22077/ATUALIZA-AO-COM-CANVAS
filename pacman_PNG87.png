@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+    height: 100vh; 
+    display: flex;  
+    justify-content: center; 
+    align-items: center;    
+  background: radial-gradient(circle at top, #1a1a2e, #0f172a 70%);
+}
+
+#canvas{
+    background-color: black;
+}
+
